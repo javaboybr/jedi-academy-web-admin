@@ -1,0 +1,3 @@
+package com.jediacademyadmin
+
+class ConnectionLostEvent
