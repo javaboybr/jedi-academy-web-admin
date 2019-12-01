@@ -1,0 +1,1 @@
+java -jar -XX:MaxHeapFreeRatio=10 -XX:MinHeapFreeRatio=10 ./jedi-academy-admin-log-publisher/target/jedi-academy-admin-log-reader-0.0.1-SNAPSHOT.jar
